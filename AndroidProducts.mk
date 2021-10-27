@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_vayu.mk
+    $(LOCAL_DIR)/aosp_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_vayu-user \
-    revengeos_vayu-userdebug \
-    revengeos_vayu-eng
+    aosp_vayu-user \
+    aosp_vayu-userdebug \
+    aosp_vayu-eng
